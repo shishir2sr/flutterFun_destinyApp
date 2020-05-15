@@ -1,0 +1,4 @@
+#Fri May 15 15:56:58 BDT 2020
+base.0=E\:\\2sR\\tutorial\\Flutter Dev\\Flutter Fun Game\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
